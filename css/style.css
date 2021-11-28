@@ -1,0 +1,50 @@
+body{
+	display:flex;
+	height:100vh;
+	flex-direction:column;
+	justify-content:space-around;
+	align-items:center;
+	font-family: 
+    "cursive",
+    "Arial",
+    "Hiragino Sans",
+    "Hiragino Kaku Gothic ProN",
+    "BIZ UDPGothic",
+    "Meiryo",
+    "sans-serif";
+	background:#e6e6fa;
+	color:#333;
+}
+form{
+	font-size:5vmin;
+}
+input{
+	width:4vmin;
+	height:4vmin;
+	position:relative;
+	top:2px;
+	font-family: "cursive";
+}
+button{
+	margin:5vmin;
+	width:15vmin;
+	height:15vmin;
+    border-radius:10vmin 10vmin 10vmin 10vmin;
+	font-size:3vmin;
+	font-family: "cursive";
+	background:#64ebb7;
+	color:rgb(238, 92, 189);
+}
+div{
+	display:flex;
+	width:80%;
+	justify-content:space-around;
+}
+img{
+	width:30vmin;
+	height:30vmin;
+    margin-left: 15vmin;
+}
+p{
+	font-size:7vmin;
+}
